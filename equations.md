@@ -127,6 +127,37 @@ $\sqrt[3]{X+1}$
 Saída:
 $$\displaystyle\lim_{x\rightarrow 0}f(x)$$
 
+## Letras Gregas
+| Letra Grega | Nome (maiúscula) | Nome (minúscula) | Comando LaTeX (maiúscula) | Comando LaTeX (minúscula) | No Ambiente LaTeX (maiúscula) | No Ambiente LaTeX (minúscula) |
+|--------------|-------------------|-------------------|----------------------------|---------------------------|------------------------|-----------------------|
+| Α            | Alpha             | alpha             | $$-$$                      | \alpha                    | $$-$$                  | $$\alpha$$            |
+| Β            | Beta              | beta              | $$-$$                      | \beta                     | $$-$$                  | $$\beta$$             |
+| Γ            | Gamma             | gamma             | \Gamma                     | \gamma                    | $$\Gamma$$             | $$\gamma$$            |
+| Δ            | Delta             | delta             | \Delta                     | \delta                    | $$\Delta$$             | $$\delta$$            |
+| Ε            | Epsilon           | epsilon           | $$-$$                      | \epsilon                  | $$-$$                  | $$\epsilon$$          |
+| Ε            | Epsilon           | epsilon           | $$-$$                      | \varepsilon               | $$-$$                  | $$\varepsilon$$       |
+| Ζ            | Zeta              | zeta              | $$-$$                      | \zeta                     | $$-$$                  | $$\zeta$$             |
+| Η            | Eta               | eta               | $$-$$                      | \eta                      | $$-$$                  | $$\eta$$              |
+| Θ            | Theta             | theta             | \Theta                     | \theta                    | $$\Theta$$             | $$\theta$$            |
+| Ι            | Iota              | iota              | $$-$$                      | \iota                     | $$-$$                  | $$\iota$$             |
+| Κ            | Kappa             | kappa             | $$-$$                      | \kappa                    | $$-$$                  | $$\kappa$$            |
+| Λ            | Lambda            | lambda            | \Lambda                    | \lambda                   | $$\Lambda$$            | $$\lambda$$           |
+| Μ            | Mu                | mu                | $$-$$                      | \mu                       | $$-$$                  | $$\mu$$               |
+| Ν            | Nu                | nu                | $$-$$                      | \nu                       | $$-$$                  | $$\nu$$               |
+| Ξ            | Xi                | xi                | \Xi                        | \xi                       | $$\Xi$$                | $$\xi$$               |
+| Ο            | Omicron           | omicron           | $$-$$                      | \omicron                  | $$-$$                  | $$\omicron$$          |
+| Π            | Pi                | pi                | \Pi                        | \pi                       | $$\Pi$$                | $$\pi$$               |
+| Ρ            | Rho               | rho               | $$-$$                      | \rho                      | $$-$$                  | $$\rho$$              |
+| Σ            | Sigma             | sigma             | \Sigma                     | \sigma                    | $$\Sigma$$             | $$\sigma$$            |
+| Τ            | Tau               | tau               | $$-$$                      | \tau                      | $$-$$                  | $$\tau$$              |
+| Υ            | Upsilon           | upsilon           | \Upsilon                   | \upsilon                  | $$\Upsilon$$           | $$\upsilon$$          |
+| Φ            | Phi               | phi               | \Phi                       | \phi                      | $$\Phi$$               | $$\phi$$              |
+| Χ            | Chi               | chi               | $$-$$                      | \chi                      | $$-$$                  | $$\chi$$              |
+| Ψ            | Psi               | psi               | \Psi                       | \psi                      | $$\Psi$$               | $$\psi$$              |
+| Ω            | Omega             | omega             | \Omega                     | \omega                    | $$\Omega$$             | $$\omega$$            |
+
+
+
 
 # Outros Exemplos
 
