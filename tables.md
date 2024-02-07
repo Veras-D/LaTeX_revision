@@ -15,6 +15,7 @@ Exemplo:
 \end{table}
 ```
 Saída:
+
 ![](https://i.imgur.com/AP9cCpq.png)
 
 - l é alinhado a esquerda 
