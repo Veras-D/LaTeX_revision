@@ -3,6 +3,7 @@ Pacote usado é o `\usepackege{pgfplots}`
 ```latex
 \pfgplotsset{compat=1.18, widht=10cm}
 ```
+
 ## 2D
 ### Por Pontos
 ```latex
