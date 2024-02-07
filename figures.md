@@ -1,6 +1,6 @@
 # Inserindo Figuras
 
-Dentro do ambiente [[LaTex com Overleaf|Inicio e de fim]], x é a largura da imagem
+Dentro do ambiente de Inicio e de fim, x é a largura da imagem
 ```latex
 \begin{figure}[ht]
     \includegraphics[width=xcm]{Caminho_da_Imagem.png}
@@ -9,6 +9,7 @@ Dentro do ambiente [[LaTex com Overleaf|Inicio e de fim]], x é a largura da ima
     \centering % opcional
 \end{figure}
 ```
+![](https://i.imgur.com/YXXnSdF.png)
 
 ## PARÂMETROS DA IMAGEM
 
@@ -35,6 +36,7 @@ Obs.: Minipage também pode ser usado para colocar texto lado a lado
 	\end{minipage}
 \end{figure}
 ```
+![](https://i.imgur.com/sgXPwA8.png)
 
 ## Figuras Lado a Lado
 ```latex
@@ -48,4 +50,6 @@ Obs.: Minipage também pode ser usado para colocar texto lado a lado
 	\caption{Legenda}
 	\end{minipage}
 \end{figure}
+![](https://i.imgur.com/ZIbCG0O.png)
+
 ```
