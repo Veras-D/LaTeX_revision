@@ -32,15 +32,18 @@ $$
 	a & - & b & = & 8
 \end{array}\right.
 $$
-## Equações
-
+## Equações via \\begin{}
+**Nota: Esse é o principal meio de inserir equações, visto que é apenas por ele que é possivel inserir legenda e lebal.**
 ```latex
 \begin{equation} 
 y=x+1
 \end{equation}
 ```
 Saída:
-![[Pasted image 20230820103729.png]]
+
+![image](https://github.com/Veras-D/LaTeX_revision/assets/110254550/710e89aa-78c4-4190-9cd3-43050db98e29)
+
+
 ## Elementos Matemático
 ### Multiplicação 1
 
