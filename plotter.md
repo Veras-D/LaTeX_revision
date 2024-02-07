@@ -29,7 +29,7 @@ Pacote usado é o `\usepackege{pgfplots}`
 	\label{fig:graf_01}
 \end{figure}
 ```
-![[Pasted image 20240204010404.png]]
+![image](https://github.com/Veras-D/LaTeX_revision/assets/110254550/53cdc6c0-5bc4-476a-b1e4-cb64ed3e7c88)
 
 - `addplot[onlymark]`
 - Para colocar outro grafico basta colocar outros `addplot`
@@ -53,7 +53,7 @@ Pacote usado é o `\usepackege{pgfplots}`
 	\end{axis}
 \end{tikzpicture}
 ```
-![[Pasted image 20240204015944.png]]
+![image](https://github.com/Veras-D/LaTeX_revision/assets/110254550/697fcc66-2111-4e8e-a93e-f373607b0586)
 
 ### Por arquivo de texto com dados
 ```latex
@@ -68,11 +68,11 @@ Pacote usado é o `\usepackege{pgfplots}`
 	\end{axis}
 \end{tikzpicture}
 ```
-![[Pasted image 20240204020752.png]]
+![image](https://github.com/Veras-D/LaTeX_revision/assets/110254550/1bde948a-a98a-40b1-b5d9-651a201956d8)
 > [!important]
 > Os dados do arquivo de texto devem estar separeados por espaço
 
-![[Pasted image 20240204020546.png]]
+![image](https://github.com/Veras-D/LaTeX_revision/assets/110254550/6b1ccf17-5f67-48d8-9636-9a8c8424ff80)
 
 ```latex
 \begin{tikzpicture}
@@ -95,7 +95,7 @@ Pacote usado é o `\usepackege{pgfplots}`
 	\end{axis}
 \end{tikzpicture}
 ```
-![[Pasted image 20240204022136.png]]
+![image](https://github.com/Veras-D/LaTeX_revision/assets/110254550/9a5ff26b-3291-4158-bbc2-3fb8aefac5c0)
 
 ### Barras
 ```latex
@@ -121,7 +121,7 @@ Pacote usado é o `\usepackege{pgfplots}`
 	\end{axis}
 \end{tikzpicture}
 ```
-![[Captura de tela de 2024-02-04 01-17-02.png]]
+![image](https://github.com/Veras-D/LaTeX_revision/assets/110254550/20bfcafc-2cd6-437f-9576-6d64b545a354)
 
 ### Para Superficies
 ```latex
@@ -137,6 +137,4 @@ Pacote usado é o `\usepackege{pgfplots}`
 	\label{fig:graf_01}
 \end{figure}
 ```
-![[Pasted image 20240204012910.png]]
-
-
+![image](https://github.com/Veras-D/LaTeX_revision/assets/110254550/6536154c-b571-434d-81f1-4b73e9d2582a)
